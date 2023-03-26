@@ -1,0 +1,6 @@
+{
+    "files.exclude": {
+        "**/.ipynb_checkpoints": true,
+        "**/.vscode": true
+    }
+}
